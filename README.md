@@ -25,3 +25,18 @@
   ![Snake animation](https://github.com/williamgomes62/williamgomes62/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.ibb.co/GPM1hk8/TerraLab.png"/>](http://www2.decom.ufop.br/terralab/)
+
+**Mobile Developer** \
+[**TerraLAB**](http://www2.decom.ufop.br/terralab/) • Trainee/estágio \
+Linguagens & Tecnologias: `JavaScript`, `ReactNative`, `Firebase`, `Jest`, `GitLab`, `Jira`\
+Projetos em destaque: [App Batmóvel](https://www.youtube.com/playlist?list=PLPObVjzFHoDdAFZ6ZcW3OkISDBv2Xn9s8)
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/williamgomes-mobile/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+ 
