@@ -1,7 +1,6 @@
 ### Olá sou o William Gomes 
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando Javascript/Typescript  
+- 🔭 Desnvolvedor front end e mobile no ecossistema ReactJS/ReactNative
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
