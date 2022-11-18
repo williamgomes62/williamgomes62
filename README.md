@@ -33,6 +33,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Mobile Developer** \
 [**TerraLAB**](http://www2.decom.ufop.br/terralab/) • Trainee/estágio \
+  • 1 ano e 7 meses \
 Linguagens & Tecnologias: `JavaScript`, `ReactNative`, `Firebase`, `Jest`, `GitLab`, `Jira`\
 Projetos em destaque: [App Batmóvel](https://www.youtube.com/playlist?list=PLPObVjzFHoDdAFZ6ZcW3OkISDBv2Xn9s8)
 <br/>
