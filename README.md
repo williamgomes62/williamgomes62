@@ -1,6 +1,6 @@
 ### Olá sou o William Gomes 
 
-- 🔭 Desnvolvedor front end e mobile no ecossistema ReactJS/ReactNative
+- 🔭 Desenvolvedor front end e mobile no ecossistema ReactJS/ReactNative
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
