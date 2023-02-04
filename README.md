@@ -31,7 +31,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.ibb.co/GPM1hk8/TerraLab.png"/>](http://www2.decom.ufop.br/terralab/)
 
-**Mobile Developer** \
+**Desenvolvedor React Native** \
 [**TerraLAB**](http://www2.decom.ufop.br/terralab/) • Trainee/estágio \
   • 1 ano e 7 meses \
 Linguagens & Tecnologias: `JavaScript`, `ReactNative`, `Firebase`, `Jest`, `GitLab`, `Jira`\
